@@ -1,0 +1,28 @@
+.ArticleDetail {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ArticleDetail-title {
+  font-size: 2em;
+  color: #333;
+}
+
+.ArticleDetail-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.ArticleDetail-content {
+  font-size: 1em;
+  color: #444;
+}
+
+.ArticleDetail-source {
+  font-size: 0.85em;
+  color: #666;
+}

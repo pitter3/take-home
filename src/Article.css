@@ -1,0 +1,28 @@
+.article {
+  text-align: left; 
+  color: black;
+  border: 3px solid black;
+}
+
+.Article-title {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.Article-meta {
+  font-size: 0.85em;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.Article-description {
+  font-size: 1em;
+  color: #444;
+}
+
+
+.Article-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
