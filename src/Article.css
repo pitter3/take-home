@@ -1,5 +1,7 @@
-.Article {
-  text-align: left;
+.article {
+  text-align: left; 
+  color: black;
+  border: 3px solid black;
 }
 
 .Article-title {
@@ -17,6 +19,7 @@
   font-size: 1em;
   color: #444;
 }
+
 
 .Article-image {
   max-width: 100%;

@@ -3,11 +3,11 @@ import Article from './Article';
 import './AllArticles.css';
 import { Link } from 'react-router-dom';
 
-const ArticleList = ({ articles }) => {
+const AllArticles = ({ articles }) => {
   return (
-    <div className="ArticleList">
+    <div className="AllArticles">
       {articles.map((article, index) => (
-        <Link to={`/articles/${index}`} key={index} className="ArticleList-item">
+        <Link to={`/articles/${index}`} key={index} className="SingleArticle">
           <Article article={article} />
         </Link>
       ))}
@@ -15,4 +15,4 @@ const ArticleList = ({ articles }) => {
   );
 };
 
-export default ArticleList;
+export default AllArticles;
