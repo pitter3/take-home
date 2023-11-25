@@ -1,8 +1,8 @@
 import { useParams } from 'react-router-dom';
 import mockData from './mockData';
-import './ArticleDetail.css';
+import './SingleArticle.css';
 
-function ArticleDetail() {
+function SingleArticle() {
   let { id } = useParams();
   const articleIndex = parseInt(id, 10);
   const article = mockData.articles[articleIndex];
@@ -22,4 +22,4 @@ function ArticleDetail() {
   );
 }
 
-export default ArticleDetail;
+export default SingleArticle;
