@@ -12,7 +12,7 @@
 Welcome to Daily Digest! Your source for all news articles!
 
 ## Preview of App:
-![Preview](![ReadMe](![DailyReadMe](https://github.com/pitter3/take-home/assets/134596035/cde9ea38-8d6e-4c14-a8fa-c7f98541dc07))
+![Preview](![ReadMe](![DailyReadMe](https://github.com/pitter3/take-home/assets/134596035/cde9ea38-8d6e-4c14-a8fa-c7f98541dc07)
 
 
 
