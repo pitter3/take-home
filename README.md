@@ -9,7 +9,7 @@
 
 ## Abstract:
 
-Welcome to Daily Digest! Your source for all news articles!
+Daily Digest is a simple and user-friendly website for viewing news articles. It provides a clean and intuitive interface to keep users informed about the latest news from various sources.
 
 ## Preview of App:
 ![Preview](![ReadMe](![DailyReadMe](https://github.com/pitter3/take-home/assets/134596035/cde9ea38-8d6e-4c14-a8fa-c7f98541dc07)
