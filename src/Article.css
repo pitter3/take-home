@@ -2,6 +2,9 @@
   text-align: left; 
   color: black;
   border: 3px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 .Article-title {

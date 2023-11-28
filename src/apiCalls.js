@@ -1,5 +1,5 @@
 export const getArticles = async (search) => {
-  const response = await fetch(`https://newsapi.org/v2/top-headlines?apiKey=613abcbaca314352adb07b1c6f1b48ad&country=us&pageSize=10&q`)
+  const response = await fetch(`https://newsapi.org/v2/top-headlines?apiKey=613abcbaca314352adb07b1c6f1b48ad&country=us&pageSize=10&q=${search}`)
   const data = await handleErrors(response)
   return data;
 }
